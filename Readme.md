@@ -1,4 +1,4 @@
-# generator-ng2-meanstack [![npm version](https://badge.fury.io/js/generator-ng2-meanstack.svg)] [![npm version](https://badge.fury.io/js/generator-ng2-meanstack.svg)](https://badge.fury.io/js/generator-ng2-meanstack)
+# generator-ng2-meanstack ![abc](https://badge.fury.io/js/generator-ng2-meanstack.svg)
 > 
 
 ## Installation
