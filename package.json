@@ -1,0 +1,29 @@
+{
+  "name": "generator-ng2-meanstack",
+  "version": "1.0.0",
+  "description": "A MEAN Stack generator for MEAN Stack apps with Angular 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhyeyMoliya/generator-ng2-meanstack.git"
+  },
+  "files": [
+    "generators/app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Dhyey Moliya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhyeyMoliya/generator-ng2-meanstack/issues"
+  },
+  "homepage": "https://github.com/DhyeyMoliya/generator-ng2-meanstack#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  },
+  "devDependencies": {}
+}
