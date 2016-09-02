@@ -15,4 +15,5 @@ Then generate your new project:
 ```bash
 yo ng2-meanstack
 ```
+[npm-image]: https://badge.fury.io/js/generator-ng2-meanstack.svg
 [npm-url]: https://npmjs.org/package/generator-ng2-meanstack
