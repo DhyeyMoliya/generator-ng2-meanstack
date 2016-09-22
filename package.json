@@ -1,18 +1,72 @@
 {
-  "name": "generator-ng2-meanstack",
-  "version": "1.0.2",
-  "description": "A lightest MEAN Stack generator for MEAN Stack apps with Angular 2.",
-  "main": "index.js",
-  "scripts": {
-    "test": "exit 1"
+  "_args": [
+    [
+      {
+        "raw": "generator-ng2-meanstack",
+        "scope": null,
+        "escapedName": "generator-ng2-meanstack",
+        "name": "generator-ng2-meanstack",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/dhyey/Desktop/Development"
+    ]
+  ],
+  "_from": "generator-ng2-meanstack@latest",
+  "_id": "generator-ng2-meanstack@1.0.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/generator-ng2-meanstack",
+  "_nodeVersion": "6.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/generator-ng2-meanstack-1.0.4.tgz_1472804715665_0.22951162443496287"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DhyeyMoliya/generator-ng2-meanstack.git"
+  "_npmUser": {
+    "name": "dhyeymoliya",
+    "email": "dhyeymoliya@gmail.com"
+  },
+  "_npmVersion": "3.10.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "generator-ng2-meanstack",
+    "scope": null,
+    "escapedName": "generator-ng2-meanstack",
+    "name": "generator-ng2-meanstack",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/generator-ng2-meanstack/-/generator-ng2-meanstack-1.0.4.tgz",
+  "_shasum": "d1253f84231dcd514e06f67699195345da0268a3",
+  "_shrinkwrap": null,
+  "_spec": "generator-ng2-meanstack",
+  "_where": "/Users/dhyey/Desktop/Development",
+  "author": {
+    "name": "Dhyey Moliya"
+  },
+  "bugs": {
+    "url": "https://github.com/DhyeyMoliya/generator-ng2-meanstack/issues"
+  },
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  },
+  "description": "A lightest MEAN Stack generator for MEAN Stack apps with Angular 2.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "d1253f84231dcd514e06f67699195345da0268a3",
+    "tarball": "https://registry.npmjs.org/generator-ng2-meanstack/-/generator-ng2-meanstack-1.0.4.tgz"
   },
   "files": [
     "generators/app"
   ],
+  "gitHead": "9fcba18871bc13faadfeb83e46d2c26355a3646c",
+  "homepage": "https://github.com/DhyeyMoliya/generator-ng2-meanstack#readme",
   "keywords": [
     "Angular 2",
     "MEAN Stack",
@@ -22,14 +76,23 @@
     "Typescript",
     "yeoman-generator"
   ],
-  "author": "Dhyey Moliya",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DhyeyMoliya/generator-ng2-meanstack/issues"
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "dhyeymoliya",
+      "email": "dhyeymoliya@gmail.com"
+    }
+  ],
+  "name": "generator-ng2-meanstack",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhyeyMoliya/generator-ng2-meanstack.git"
   },
-  "homepage": "https://github.com/DhyeyMoliya/generator-ng2-meanstack#readme",
-  "dependencies": {
-    "yeoman-generator": "^0.24.1"
+  "scripts": {
+    "test": "exit 1"
   },
-  "devDependencies": {}
+  "version": "1.0.4"
 }
