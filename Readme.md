@@ -15,7 +15,7 @@ Then generate your new project:
 ```bash
 yo ng2-meanstack
 ```
-## What's the uniqeness in it?
+## What's the uniqueness in it?
 
 If you use conventinal methods, your whole code is exposed in Angular 2 servers.
 
