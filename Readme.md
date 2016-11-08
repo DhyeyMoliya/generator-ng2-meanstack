@@ -15,3 +15,9 @@ Then generate your new project:
 ```bash
 yo ng2-meanstack
 ```
+## What's the uniwueness in it?
+
+If you use conventinal methods, your whole code is exposed in Angular 2 servers.
+
+The server in this generator, prevents the user from accessing the backend code of your application, 
+leaving them to be able to see only Angular 2 code rather then exposing whole server configurations and values.
