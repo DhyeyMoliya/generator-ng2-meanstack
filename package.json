@@ -14,14 +14,14 @@
     ]
   ],
   "_from": "generator-ng2-meanstack@latest",
-  "_id": "generator-ng2-meanstack@1.0.4",
+  "_id": "generator-ng2-meanstack@1.0.5",
   "_inCache": true,
   "_installable": true,
   "_location": "/generator-ng2-meanstack",
   "_nodeVersion": "6.5.0",
   "_npmOperationalInternal": {
     "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/generator-ng2-meanstack-1.0.4.tgz_1472804715665_0.22951162443496287"
+    "tmp": "tmp/generator-ng2-meanstack-1.0.5.tgz_1472804715665_0.22951162443496287"
   },
   "_npmUser": {
     "name": "dhyeymoliya",
@@ -41,7 +41,7 @@
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/generator-ng2-meanstack/-/generator-ng2-meanstack-1.0.4.tgz",
+  "_resolved": "https://registry.npmjs.org/generator-ng2-meanstack/-/generator-ng2-meanstack-1.0.5.tgz",
   "_shasum": "d1253f84231dcd514e06f67699195345da0268a3",
   "_shrinkwrap": null,
   "_spec": "generator-ng2-meanstack",
@@ -60,7 +60,7 @@
   "directories": {},
   "dist": {
     "shasum": "d1253f84231dcd514e06f67699195345da0268a3",
-    "tarball": "https://registry.npmjs.org/generator-ng2-meanstack/-/generator-ng2-meanstack-1.0.4.tgz"
+    "tarball": "https://registry.npmjs.org/generator-ng2-meanstack/-/generator-ng2-meanstack-1.0.5.tgz"
   },
   "files": [
     "generators/app"
