@@ -1,51 +1,9 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "generator-ng2-meanstack",
-        "scope": null,
-        "escapedName": "generator-ng2-meanstack",
-        "name": "generator-ng2-meanstack",
-        "rawSpec": "",
-        "spec": "latest",
-        "type": "tag"
-      },
-      "/Users/dhyey/Desktop/Development"
-    ]
-  ],
-  "_from": "generator-ng2-meanstack@latest",
-  "_id": "generator-ng2-meanstack@1.0.5",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/generator-ng2-meanstack",
-  "_nodeVersion": "6.5.0",
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/generator-ng2-meanstack-1.0.5.tgz_1472804715665_0.22951162443496287"
-  },
+  
   "_npmUser": {
     "name": "dhyeymoliya",
     "email": "dhyeymoliya@gmail.com"
   },
-  "_npmVersion": "3.10.6",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "generator-ng2-meanstack",
-    "scope": null,
-    "escapedName": "generator-ng2-meanstack",
-    "name": "generator-ng2-meanstack",
-    "rawSpec": "",
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "https://registry.npmjs.org/generator-ng2-meanstack/-/generator-ng2-meanstack-1.0.5.tgz",
-  "_shasum": "d1253f84231dcd514e06f67699195345da0268a3",
-  "_shrinkwrap": null,
-  "_spec": "generator-ng2-meanstack",
-  "_where": "/Users/dhyey/Desktop/Development",
   "author": {
     "name": "Dhyey Moliya"
   },
@@ -58,14 +16,9 @@
   "description": "A lightest MEAN Stack generator for MEAN Stack apps with Angular 2.",
   "devDependencies": {},
   "directories": {},
-  "dist": {
-    "shasum": "d1253f84231dcd514e06f67699195345da0268a3",
-    "tarball": "https://registry.npmjs.org/generator-ng2-meanstack/-/generator-ng2-meanstack-1.0.5.tgz"
-  },
   "files": [
     "generators/app"
   ],
-  "gitHead": "9fcba18871bc13faadfeb83e46d2c26355a3646c",
   "homepage": "https://github.com/DhyeyMoliya/generator-ng2-meanstack#readme",
   "keywords": [
     "Angular 2",
@@ -94,5 +47,5 @@
   "scripts": {
     "test": "exit 1"
   },
-  "version": "1.0.5"
+  "version": "1.0.6"
 }
