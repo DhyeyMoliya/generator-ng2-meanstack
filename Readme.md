@@ -22,4 +22,4 @@ If you use conventinal methods, your whole code is exposed in Angular 2 servers.
 The server in this generator, prevents the user from accessing the backend code of your application, 
 leaving them to be able to see only Angular 2 code rather then exposing whole server configurations and values.
 
-==Any suggestions for improvement are welcomed anytime!==
+== Any suggestions for improvement are welcomed anytime! ==
